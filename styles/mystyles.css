@@ -1,0 +1,53 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: blue;
+}
+
+.header{
+    height: 120px;
+    background-color: white;
+    line-height: 130px;
+    font-size: 70px;
+    text-decoration: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.common{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.place{
+    font-size: 45px;
+}
+
+.footer{
+    height: 25px;
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    padding-top: 10px;
+}
+
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
